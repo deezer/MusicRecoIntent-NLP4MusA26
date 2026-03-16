@@ -1,5 +1,5 @@
 # MusicRecoIntent-NLP4MusA26
-This repository contains the dataset presented in the paper: **"Beyond Musical Descriptors: Extracting Preference-Bearing Intent in Music Queries"**, accepted for publication at [**NLP4MusA 2026**](https://sites.google.com/view/nlp4musa-2026/home).
+This repository contains the dataset presented in the paper: **"[Beyond Musical Descriptors: Extracting Preference-Bearing Intent in Music Queries](https://arxiv.org/pdf/2602.12301)"**, accepted for publication at [**NLP4MusA 2026**](https://sites.google.com/view/nlp4musa-2026/home).
 
 ---
 
